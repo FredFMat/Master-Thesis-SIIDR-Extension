@@ -3,6 +3,7 @@ Simulation code for the Master's thesis "Agents of Infection: Extending Compartm
 
 | Script | Content | Location in the thesis |
 |— —|— —|— —|
+
 | Phase 1 Baseline Appendix.py | Phase 1 feasibility check | Section 4.5.1 |
 | Phase 2 Baseline Appendix.py | Phase 2 baseline (Scenario Group 1) | Section 5.1, Figure 3 |
 | Phase 2 Bifurcation Appendix.py | Analysis of equilibria | Section 5.2, Figure 4, Appendices B, C.4, E |

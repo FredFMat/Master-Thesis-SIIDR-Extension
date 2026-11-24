@@ -24,4 +24,4 @@ Python 3.14 with the packages:
 ## Running the scripts
 
 Create the folder `Figures_Presentation/Results/` in the directory you run
-the scripts from, as this is the location the figures are saved to. T
+the scripts from, as this is the location the figures are saved to.

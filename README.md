@@ -2,6 +2,7 @@
 Simulation code for the Master's thesis "Agents of Infection: Extending Compartmental Epidemiological Models to Capture LLM-Agent-Driven Malware Propagation" by Frederic-Francois Mattern, Osnabrück University, 2026
 
 | Script | Content | Location in the thesis |
+
 |— —|— —|— —|
 
 | Phase 1 Baseline Appendix.py | Phase 1 feasibility check | Section 4.5.1 |
